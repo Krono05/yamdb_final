@@ -29,7 +29,7 @@ git clone https://github.com/Krono05/infra_sp2.git
 ```bash
 docker-compose up
 ```
-### 4. Выключение контейнера
+#### 4. Выключение контейнера
 ```bash
 docker-compose down
 ```
